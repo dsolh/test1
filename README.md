@@ -6,8 +6,8 @@
 
 ### test3
 *code*
-'#include <stdio.h>
+`#include <stdio.h>
 
 int main(void) {
-  print("Hello World");
-}'
+ print("Hello World");
+}`
