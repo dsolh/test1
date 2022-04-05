@@ -19,3 +19,5 @@ int main(void) {
 ~~Wow It's amazing~~
 term
 : definition
+
+*copy of the main and i'm future sol*
