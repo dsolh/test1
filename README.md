@@ -14,4 +14,4 @@ int main(void) {
 }
 ```
 
-[^1] : This is footnote.
+[^1]: This is a footnote.
