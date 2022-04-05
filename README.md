@@ -13,3 +13,5 @@ int main(void) {
  print("Hello World");
 }
 ```
+
+[^1] : This is footnote.
