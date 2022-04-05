@@ -5,7 +5,8 @@
 ## test2
 
 ### test3
-*code* : This is a code.
+*code* 
+: This is a code.
 [^1]: This is a footnote.
 ```
 #include <stdio.h>
