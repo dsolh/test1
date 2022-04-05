@@ -17,3 +17,5 @@ int main(void) {
 ```
 
 ~~Wow It's amazing~~
+term
+: definition
